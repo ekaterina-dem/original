@@ -157,6 +157,9 @@ public class Main {
             split[i] = split[split.length - 1 - i]; // последний элемент заносим в первую переменную
             split[split.length - 1 - i] = temp; // временную переменную заносим в последний элемент
         }
+
+
+        /// rfjfjh
        // System.out.println(Arrays.toString(split));
        /* Scanner scanner=new Scanner(System.in);  как задание №6
         String next=scanner.nextLine();
