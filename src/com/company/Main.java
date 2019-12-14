@@ -160,7 +160,8 @@ public class Main {
 
 
         /// rfjfjh
-       // System.out.println(Arrays.toString(split));
+        System.out.println(Arrays.toString(split));
+        System.out.println(Arrays.toString(split)); // 123456
        /* Scanner scanner=new Scanner(System.in);  как задание №6
         String next=scanner.nextLine();
         String[] s=next.split(" ");
